@@ -1,13 +1,17 @@
 # Markov-Chain-Algorithm
 Markov-Chain-Algorithm
 
-This repository contains solutions for the questions asked in the file: 
+This repository contains solutions for the questions asked in the file:
 
 "Markov-Chain-Algorithm/MAT210ProjectSpring24option2.pdf"
 
+Several exercises are solved using the Markov-Chain algorithm
+
+The matrix calculations are done using numpy
+
 Example 6 question and solution can be found in "Markov-Chain-Algorithm/example_6"
 
-The helper file contains functions that will be reused 
+The helper file contains functions that will be reused
 
 The folder exercises from the book contains exercises that were asked in the project description
 
